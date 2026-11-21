@@ -1,0 +1,1 @@
+import{c as e,j as t,r as o}from"./brand-DkjjdkIt.js";import{l as r,P as i}from"./preventivo-BfY5Dco1.js";const{studio:s,prezzi:a,occupati:c}=r(window.__PREVENTIVO||location.hash);document.body.classList.add("lux","lux-cliente");e(document.getElementById("root")).render(t.jsx(o.StrictMode,{children:t.jsx(i,{studio:s,prezzi:a,occupati:c})}));
